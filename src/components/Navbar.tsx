@@ -4,12 +4,12 @@ function Navbar() {
   return (
     <ul className="nav-links">
       <NavLink to="/yoga">
-        <img src="public/img/hugeicons--yoga-mat.svg" alt="Yoga Icon" />
+        <img src="img/hugeicons--yoga-mat.svg" alt="Yoga Icon" />
       </NavLink>
 
       <NavLink to="/meditation">
         <img
-          src="public/img/ph--flower-lotus-bold.svg"
+          src="img/ph--flower-lotus-bold.svg"
           alt="Meditate Icon"
         />
       </NavLink>
