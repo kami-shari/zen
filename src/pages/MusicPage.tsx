@@ -81,7 +81,7 @@ export default function MusicPage() {
           className="categories-box"
           onClick={() => handleCategoryChange("mantra")}
           style={{
-            backgroundImage: `url("src/assets/img/filter2.png")`,
+            backgroundImage: `url("public/img/filter2.png")`,
             backgroundPosition: "center",
             backgroundSize: "cover",
             color: "white",
@@ -94,7 +94,7 @@ export default function MusicPage() {
           className="categories-box"
           onClick={() => handleCategoryChange("piano")}
           style={{
-            backgroundImage: `url("src/assets/img/filter1.png")`,
+            backgroundImage: `url("public/img/filter1.png")`,
             backgroundPosition: "center",
             backgroundSize: "cover",
             color: "white",
@@ -107,7 +107,7 @@ export default function MusicPage() {
           className="categories-box"
           onClick={() => handleCategoryChange("binaural")}
           style={{
-            backgroundImage: `url("src/assets/img/filter3.png")`,
+            backgroundImage: `url("public/img/filter3.png")`,
             backgroundPosition: "center",
             backgroundSize: "cover",
             color: "white",
@@ -160,7 +160,7 @@ export default function MusicPage() {
               {isPlaying === music.id ? 
               
               <img
-                src="/src/assets/img/icons8-pause-50.png" 
+                src="public/img/icons8-pause-50.png" 
                 alt="Play"
                 style={{
                   width: "30px",
@@ -169,7 +169,7 @@ export default function MusicPage() {
                 }}
               /> :
               <img
-                src="/src/assets/img/play-2.svg" 
+                src="public/img/play-2.svg" 
                 alt="Play"
                 style={{
                   width: "30px",

@@ -111,7 +111,7 @@ export default function MeditationDetailPage() {
                     borderRadius: "5px",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
-                    backgroundImage:  isPlaying ? "url(/src/assets/img/icons8-pause-50.png)" : "url(/src/assets/img/play-2.svg)",
+                    backgroundImage:  isPlaying ? "url(public/img/icons8-pause-50.png)" : "url(/src/assets/img/play-2.svg)",
                   }}
                   config={{
                     file: {
@@ -129,7 +129,7 @@ export default function MeditationDetailPage() {
             <div className="back-fav">
               <button className="back" onClick={() => navigate(-1)}>
                 <img
-                  src="/src/assets/img/arrow-left-circle-3.svg"
+                  src="public/img/arrow-left-circle-3.svg"
                   alt=""
                   style={{ width: "30px", height: "30px" }}
                 />
@@ -151,7 +151,7 @@ export default function MeditationDetailPage() {
               >
                 {meditationTechnique.favorites.length > 0 ? (
                   <img
-                    src="/src/assets/img/full-heart.png" // Bild für "Favorit"
+                    src="public/img/full-heart.png" // Bild für "Favorit"
                     alt="Remove from favorites"
                     style={{
                       width: "25px",
@@ -161,7 +161,7 @@ export default function MeditationDetailPage() {
                   />
                 ) : (
                   <img
-                    src="/src/assets/img/empty-heart.png" // Bild für "Nicht Favorit"
+                    src="public/img/empty-heart.png" // Bild für "Nicht Favorit"
                     alt="Add to favorites"
                     style={{
                       width: "25px",

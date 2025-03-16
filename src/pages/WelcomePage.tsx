@@ -8,7 +8,7 @@ export default function WelcomePage() {
         welcome <br />
         to Zen
       </h1>
-      <img src="/src/assets/img/yoga-man.png" alt="" />
+      <img src="public/img/yoga-man.png" alt="" />
       <Link to="/reminders">
         <button className="default-btn">GET STARTED</button>
       </Link>
