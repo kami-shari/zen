@@ -49,7 +49,7 @@ The ZEN app has the following features:
 The ZEN app uses the following third-party libraries:
 
 - `react-router-dom` - DOM bindings for React Router.
-- `react-player` - React Video & Music Player. ?????
+- `react-player` - React Video & Music Player.
 
 
 
