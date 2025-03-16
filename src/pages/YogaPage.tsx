@@ -85,7 +85,7 @@ export default function YogaPage() {
           </button>
           <button
             style={{
-              backgroundImage: `url("public/img/filter2.png")`,
+              backgroundImage: `url("img/filter2.png")`,
               backgroundPosition: "center",
               backgroundSize: "cover",
               color: "white",
@@ -98,7 +98,7 @@ export default function YogaPage() {
           </button>
           <button
             style={{
-              backgroundImage: `url("public/img/filter1.png")`,
+              backgroundImage: `url("img/filter1.png")`,
               backgroundPosition: "center",
               backgroundSize: "cover",
               color: "white",
@@ -111,7 +111,7 @@ export default function YogaPage() {
           </button>
           <button
             style={{
-              backgroundImage: `url("public/img/filter3.png")`,
+              backgroundImage: `url("img/filter3.png")`,
               backgroundPosition: "center",
               backgroundSize: "cover",
               color: "white",

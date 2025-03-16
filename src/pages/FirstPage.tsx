@@ -13,7 +13,7 @@ function FirstPage() {
   return (
     <div className="first-page">
       <div className="fp-headline">
-        <img src="public/img/fp-yogagirl.png" alt="yogagirl" />
+        <img src="img/fp-yogagirl.png" alt="yogagirl" />
         <h1>We are what we do</h1>
         <p>
           Thousands of people are using zen for meditation and yoga classes.

@@ -146,7 +146,7 @@ main::-webkit-scrollbar {
   position: relative; /* Wichtiger Bezugspunkt für Positionierung */
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
   background-color: #7ac08b;
-  background-image: url("public/img/app-bg.png");
+  background-image: url("img/app-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -368,7 +368,7 @@ main::-webkit-scrollbar {
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
   border-radius: 10px;
   color: white;
-  background-image: url("public/img/random-player-bg.png");
+  background-image: url("img/random-player-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -558,7 +558,7 @@ main::-webkit-scrollbar {
   border-radius: 10px;
   color: white;
   margin-bottom: 2em;
-  background-image: url("public/img/random-player-bg.png");
+  background-image: url("img/random-player-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
