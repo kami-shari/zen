@@ -13,7 +13,7 @@ This app was conceived as the 1-week final project by Victoria Glass, Tolgay Öz
 
 ## Demo
 
-You can view a live demo of the ZEN app at [https://zen-die-yoga-amsnk7md4-tolga-ozdemirs-projects.vercel.app/FirstPage].
+You can view a live demo of the ZEN app at [https://zen-yoga-app.netlify.app/].
 
 ## ZEN app uses the following technologies:
 
@@ -99,6 +99,6 @@ The MIT License is a permissive free software license that allows you to use, co
 
 Created with ♥ by:
 
-- **Victoria Glass**: [GitHub](https://github.com/AliceReturns)
-- **Tolgay Özdemir**: [GitHub](https://github.com/TOezdemir)
-- **Kami Shari**: [GitHub](https://github.com/kami-shari)
+- **Victoria Glass**: [GitHub](https://github.com/AliceReturns) - Design
+- **Tolgay Özdemir**: [GitHub](https://github.com/TOezdemir) - Concept & coding
+- **Kami Shari**: [GitHub](https://github.com/kami-shari) - Research, planing & coding
