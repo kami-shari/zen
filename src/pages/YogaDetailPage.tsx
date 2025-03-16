@@ -114,7 +114,7 @@ export default function YogaDetailPage() {
                 />
               ) : (
                 <img
-                  src="img/empty-heart.png" // Bild für "Nicht Favorit"
+                  src="/img/empty-heart.png" // Bild für "Nicht Favorit"
                   alt="Add to favorites"
                   style={{
                     width: "25px",
