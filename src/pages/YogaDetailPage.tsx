@@ -85,7 +85,7 @@ export default function YogaDetailPage() {
           </div>
           <div className="back-fav">
             <button className="back" onClick={() => navigate(-1)}>
-              <img src="img/arrow-left-circle-3.svg" alt="back" />
+              <img src="/img/arrow-left-circle-3.svg" alt="back" />
             </button>
             {/* <button className="fav-btn" onClick={handleFavoriteClick}>
               {yogaPose.favorites.length > 0 ? "❤️" : "♡"}
@@ -104,7 +104,7 @@ export default function YogaDetailPage() {
             >
               {yogaPose.favorites.length > 0 ? (
                 <img
-                  src="img/full-heart.png" // Bild für "Favorit"
+                  src="/img/full-heart.png" // Bild für "Favorit"
                   alt="Remove from favorites"
                   style={{
                     width: "25px",
